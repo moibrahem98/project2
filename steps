@@ -1,0 +1,166 @@
+1962  git status
+ 1963  git add * 
+ 1964  git status
+ 1965  git commit -m "Adding Project Structure"
+ 1966  git add origin master
+ 1967  git remote add origin git@github.com:moibrahem98/project2.git
+ 1968  git add origin master
+ 1969  git push
+ 1970  git add origin master
+ 1971  git push origin master 
+ 1972  git merge master
+ 1973  git merge main
+ 1974  git checkout 
+ 1975  git branch
+ 1976  git branch main
+ 1977  git branch 
+ 1978  git checkout ma
+ 1979  git checkout main
+ 1980  git merge master 
+ 1981  git init 
+ 1982  git status 
+ 1983  git init
+ 1984  git remote add origin git@github.com:moibrahem98/pro2.git
+ 1985  git init
+ 1986  git status
+ 1987  git add * 
+ 1988  git commit -m "Done Adding !"
+ 1989  git remote add origin git@github.com:moibrahem98/project2.git
+ 1990  git push origin master 
+ 1991  git push --force  origin master 
+ 1992  git checkout dev
+ 1993  git brack -b dev
+ 1994  git checkout -b dev
+ 1995  git branch test
+ 1996  git branch 
+ 1997  git checkout dev
+ 1998  touch file2 file3
+ 1999  ls
+ 2000  git merge dev
+ 2001  git checkout master
+ 2002  git merge dev
+ 2003  git checkout dev
+ 2004  git push origin master 
+ 2005  git checkout master
+ 2006  git merge dev
+ 2007  git checkout dev
+ 2008  git push -u origin master 
+ 2009  git push --all 
+ 2010  git branch
+ 2011  git checkout master 
+ 2012  git merge dev 
+ 2013  git checkout dev
+ 2014  ls
+ 2015  code index.html 
+ 2016  git status
+ 2017  git add * 
+ 2018  git checkout master 
+ 2019  git merge dev
+ 2020  git status
+ 2021  git branch 
+ 2022  git checkout 
+ 2023  git checkout dev
+ 2024  git push -all 
+ 2025  git push --all 
+ 2026  git push --all -u
+ 2027  git checkout master 
+ 2028  git status
+ 2029  git merge dev
+ 2030  git checkout dev
+ 2031  git add * 
+ 2032  git commit -m "Edit the index page"
+ 2033  git checkout master
+ 2034  git merge dev
+ 2035  git branch 
+ 2036  git status
+ 2037  git checkout dev
+ 2038  git status
+ 2039  git branch 
+ 2040  git add *
+ 2041  git status
+ 2042  git push *
+ 2043  git push --all
+ 2044  git push --force --all
+ 2045  git status
+ 2046  git checkout master 
+ 2047  git merge
+ 2048  git merge dev
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ // delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 1982  git tag v1
+ 1983  git log
+ 1984  ls
+ 1985  git tag v1
+ 1986  git log
+ 1987  git tag
+ 1988  git tag -a v2a -m "version 2"
+ 1989  git log
+ 1990  git tag
+ 1991  git push origin v2a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ To delete a remote tag
+git push origin --delete v1.4
+
+
+To delete a local tag
+git tag -d v1.4
+
+
+
+
+
+
