@@ -31,4 +31,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Mohamed Ibrahem
+
+![alt text](https://github.com/moibrahem98/project2/blob/master/img/istockphoto-1224500457-170667a.jpg)
