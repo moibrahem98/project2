@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    width: 80%;
+    margin: 100px auto;
+}
+
+.box {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+    font-size: 22px;
+    font-weight: bold;
+    overflow-y: scroll;
+}
+.box_row {
+    display: flex;
+    align-items: center;
+}
+.main .paragraph {
+    cursor: pointer;
+    font-weight: bolder;
+    transition: .5s all ease-in-out;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.main .paragraph.add {
+    background-color: lightslategrey;
+    color: white;
+    height: fit-content;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.btns .btn {
+    border: 1px solid gray;
+    padding: 2px 15px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 2;
+    cursor: pointer;
+}
+
+.main_input {
+    display: flex;
+    justify-content: space-around;
+    gap: 2rem;
+    margin-top: 50px;
+}
+
+.main_input .btn {
+    border: 1px solid gray;
+    padding: 3px 15px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.main_input .input input {
+    padding: 10px;
+    font-weight: bold;
+    height: 32px;
+}
+
+.main_input h3 {
+    font-weight: bolder;
+    font-size: 30px;
+    background-color: black;
+    color: lightgray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+h4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
